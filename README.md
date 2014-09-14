@@ -2,6 +2,8 @@
    Arduino Electronics Introduction
 ================================================================================
 
+**[Work In Progress]**
+
 This workshop is designed to provide an introduction to the arduino hardware
 and software platform. Participants will learn how to connect to and program the
 arduino, and interface with various sensors and outputs.
