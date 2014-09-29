@@ -2,7 +2,7 @@
    Arduino Electronics Introduction
 ================================================================================
 
-**[Work In Progress]**
+**[Draft Release V1.0]**
 
 This workshop is designed to provide an introduction to the arduino hardware
 and software platform. Participants will learn how to connect to and program the
@@ -17,21 +17,26 @@ files or they might not work correctly.
    Files and Folders
 --------------------------------------------------------------------------------
 
-### breadboard.odg
+### breadboard.pdf
 
 Quick reference card for how to use breadboards.
 
-### worksheet.odg
+### worksheet.pdf
 
 The worksheet people will use to follow the workshop.
 
 ### code/
 
-Contains all example code for the workshop
+Contains all example code for the workshop. Not all of it is designed to 
+actually be run, it is just there for quick reference.
 
 ### images/
 
 All exported images, reference photos and circuit diagrams.
+
+### fritzing-diagrams/
+
+All of the fritz diagrams used in making the worksheet.
 
    
    Component Guides
@@ -41,7 +46,6 @@ All exported images, reference photos and circuit diagrams.
 - Buttons
 - Potentiometers (Variable Resistors)
 - Servos
-- Screens
 
 
    Arduino Software Guides
@@ -51,4 +55,3 @@ All exported images, reference photos and circuit diagrams.
 - Digital Inputs and Outputs
 - PWM
 - Analogue Input
-- Screens
