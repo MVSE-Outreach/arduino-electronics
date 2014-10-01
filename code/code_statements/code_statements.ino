@@ -24,10 +24,11 @@ void loop() {
     digitalWrite(button_pin, is_button_pressed);
   }
   
-  press_count += 1; // Add 1 to the button press counter.
+  press_count = press_count + 1; // Add 1 to the button press counter.
   send_message(press_count);
 }
 
 void send_message(int button_count) { // Here we declare our own function.
-  Serial.println("Button Pressed %d times", button_count);
+  Serial.print("Button Presses: ");
+  Serial.println(button_count);
 }
